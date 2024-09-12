@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/simple-react-car-management/static/css/main.31d6cfe0.css",
+    "main.js": "/simple-react-car-management/static/js/main.7106c2cd.js",
+    "static/js/453.0ae4f2a7.chunk.js": "/simple-react-car-management/static/js/453.0ae4f2a7.chunk.js",
+    "index.html": "/simple-react-car-management/index.html",
+    "main.7106c2cd.js.map": "/simple-react-car-management/static/js/main.7106c2cd.js.map",
+    "453.0ae4f2a7.chunk.js.map": "/simple-react-car-management/static/js/453.0ae4f2a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.7106c2cd.js"
+  ]
+}
